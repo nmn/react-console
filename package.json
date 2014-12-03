@@ -25,7 +25,8 @@
     "url": "https://github.com/nmn/react-console/issues"
   },
   "homepage": "https://github.com/nmn/react-console",
-  "dependencies": {
-    "react": "^0.12.1"
+  "peerDependencies": {
+    "react": "^0.12.1",
+    "react-prefixr": "0.0.3"
   }
 }
