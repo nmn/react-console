@@ -1,0 +1,31 @@
+{
+  "name": "react-console",
+  "version": "1.0.0",
+  "description": "A scrolling component for fixed-width text that can behave like a console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmn/react-console"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "react.js",
+    "console",
+    "code",
+    "browser",
+    "infinity"
+  ],
+  "author": "Naman Goel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmn/react-console/issues"
+  },
+  "homepage": "https://github.com/nmn/react-console",
+  "dependencies": {
+    "react": "^0.12.1"
+  }
+}
